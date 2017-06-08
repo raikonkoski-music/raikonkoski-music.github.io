@@ -1,0 +1,114 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="raikonkoski.github.io" resolutions="1x" timestamp="1496958062964">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_str.css" crc="3811462835" ref="index"/>
+    <file name="index.css" crc="149993182" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="music-favicon.ico" crc="357239831" ref="index"/>
+    <file name="loog.png" crc="4238618135" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home.png" crc="95697168" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="musica-crop-u2720.png" crc="3979527211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vidoss-crop-u2722.png" crc="145140538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photoss-crop-u2724.png" crc="3938674824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gamess-crop-u2726.png" crc="337515056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk2.png" crc="255027453" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk1.png" crc="4051553932" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="partnyrs.png" crc="349199521" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image.png" crc="3820530220" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contacts.png" crc="14660852" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uprava.png" crc="4240796863" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news.png" crc="4171453066" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="history.png" crc="311949319" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vov.png" crc="54342166" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="school.png" crc="4162477643" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mans.png" crc="420656290" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lirika.png" crc="4107478902" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map.png" crc="4237583744" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boot_karelia.png" crc="438656034" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="earth.gif" crc="380162060" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3804712757" seo="true" mt="1496958033338" redirect="true"/>
+</manifest>
