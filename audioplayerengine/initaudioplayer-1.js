@@ -90,7 +90,7 @@ jQuery(document).ready(function(){
 		
 	volumebarheight:155,
 		
-        tracklistitem:19,
+        tracklistitem:30,
 
         tracklistitemformat:"%ID%. %TITLE% <span style='position:absolute;top:0;right:0;'>%DURATION%</span>",
 
