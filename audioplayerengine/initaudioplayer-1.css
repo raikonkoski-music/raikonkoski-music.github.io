@@ -279,8 +279,8 @@
 	position: relative;
 	cursor: pointer;
 	color: #eebf51;
-	font-family: 'Open Sans', Arial, sans-serif;
-	font-size: 22px;
+	font-family:Arial;
+	font-size: 23px;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
 	line-height: 22px;
 	padding:3px;
