@@ -36,7 +36,7 @@ jQuery(document).ready(function(){
 
         titleformat:"%TITLE%",
 
-        height:1500,
+        height:1042,
 
         loadingformat:"Loading...",
 
@@ -44,13 +44,13 @@ jQuery(document).ready(function(){
 		
         prevnextimageheight:180,
 		
-		prevnextimagewidth:180,
+	prevnextimagewidth:180,
 					
         showinfo:true,
 
         imageheight:180,
 		
-		imagewidth:180,
+	imagewidth:180,
 		
         skin:"DarkBox",
 
@@ -58,7 +58,7 @@ jQuery(document).ready(function(){
 
         loopimagewidth:50,
 		
-		loopimageheight:50,
+	loopimageheight:50,
 		
         showstop:false,
 
