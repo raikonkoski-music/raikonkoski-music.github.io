@@ -281,7 +281,7 @@
 	color: #eebf51;
 	font-family:Arial;
 	font-size: 23px;
-	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.6);
+	text-shadow:rgba(0, 0, 0, 0.6);
 	line-height: 22px;
 	padding:3px;
 	text-align: left;
