@@ -82,15 +82,15 @@ jQuery(document).ready(function(){
 
         volumeimage:"volume-24-24-0.png",
 		
-		volumeimagewidth:50,
+	volumeimagewidth:50,
 		
-		volumeimageheight:50,
+	volumeimageheight:50,
 		
-		volumebarpadding:08,
+	volumebarpadding:08,
 		
-		volumebarheight:155,
+	volumebarheight:155,
 		
-        tracklistitem:26,
+        tracklistitem:19,
 
         tracklistitemformat:"%ID%. %TITLE% <span style='position:absolute;top:0;right:0;'>%DURATION%</span>",
 
@@ -98,11 +98,11 @@ jQuery(document).ready(function(){
 
         forceflash:false,
 
-		playpauseimagewidth:180,
+	playpauseimagewidth:180,
 		
         playpauseimageheight:180,
 
-		playpauseimage:"playpause-58-58.png",
+	playpauseimage:"playpause-58-58.png",
 		
         showbackgroundimage:false,
 
